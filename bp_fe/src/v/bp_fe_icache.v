@@ -172,7 +172,7 @@ module bp_fe_icache
   begin: data_mems
     bsg_mem_1rw_sync_mask_write_byte #(
       .data_width_p(dword_width_p)
-      ,.els_p(lce_sets_p*lce_assoc_p) // same number of blocks and ways
+      ,.els_p(lce_sets_p*8) // same number of blocks and ways
     ) data_mem (
       .clk_i(clk_i)
       ,.reset_i(reset_i)
