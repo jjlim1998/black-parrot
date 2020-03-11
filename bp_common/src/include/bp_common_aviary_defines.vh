@@ -113,6 +113,10 @@ typedef struct packed
   integer itlb_els;
   integer dtlb_els;
 
+  integer lce_fe_sets;
+  integer lce_fe_assoc;
+  integer cce_fe_block_width;
+
   integer lce_sets;
   integer lce_assoc;
   integer cce_block_width;
