@@ -1,6 +1,7 @@
 .DS_STORE
 bsg_cadenv
 external/*
+Makefile.common
 *.swp
 *.pyc
 *.log
