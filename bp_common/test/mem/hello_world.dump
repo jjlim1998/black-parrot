@@ -1,5 +1,9 @@
 
+<<<<<<< HEAD
 /home/angl7/ee477/final_project/black-parrot/bp_common/test/mem/hello_world.riscv:     file format elf64-littleriscv
+=======
+/home/jjlim98/EE477/final/black-parrot/bp_common/test/mem/hello_world.riscv:     file format elf64-littleriscv
+>>>>>>> 63494b34e86c993b613e31a22637a82ae5a1050d
 
 
 Disassembly of section .text.init:
