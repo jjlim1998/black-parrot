@@ -204,7 +204,7 @@ typedef struct packed
                                                                                                    \
   , localparam lce_fe_sets_p                 = proc_param_lp.lce_fe_sets                           \
   , localparam lce_fe_assoc_p                = proc_param_lp.lce_fe_assoc                          \
-  , localparam cce_fe_block_width_p          = proc_param_lp.cce__fe_block_width                   \
+  , localparam cce_fe_block_width_p          = proc_param_lp.cce_fe_block_width                    \
                                                                                                    \
   , localparam lce_sets_p                 = proc_param_lp.lce_sets                                 \
   , localparam lce_assoc_p                = proc_param_lp.lce_assoc                                \
