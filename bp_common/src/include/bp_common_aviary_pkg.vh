@@ -81,15 +81,6 @@ package bp_common_aviary_pkg;
       ,itlb_els             : 8
       ,dtlb_els             : 8
       
-<<<<<<< HEAD
-      ,lce_fe_sets          : 256
-      ,lce_fe_assoc         : 2
-      ,cce_fe_block_width   : 128
-
-      ,lce_sets             : 256
-      ,lce_assoc            : 2
-      ,cce_block_width      : 128
-=======
       ,lce_fe_sets			: 128
       ,lce_fe_assoc			: 4
       ,cce_fe_block_width	: 256
@@ -97,7 +88,6 @@ package bp_common_aviary_pkg;
       ,lce_sets             : 64
       ,lce_assoc            : 8
       ,cce_block_width      : 512
->>>>>>> 63494b34e86c993b613e31a22637a82ae5a1050d
       ,cce_pc_width         : 8
 
       ,l2_sets : 256
