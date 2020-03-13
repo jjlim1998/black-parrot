@@ -29,10 +29,6 @@ package bp_common_aviary_pkg;
 
       ,itlb_els             : 8
       ,dtlb_els             : 8
-      
-      ,lce_fe_sets			: 128
-      ,lce_fe_assoc			: 4
-      ,cce_fe_block_width	: 256
 
       ,lce_sets             : 64
       ,lce_assoc            : 8
@@ -84,10 +80,6 @@ package bp_common_aviary_pkg;
       
       ,itlb_els             : 8
       ,dtlb_els             : 8
-      
-      ,lce_fe_sets			: 128
-      ,lce_fe_assoc			: 4
-      ,cce_fe_block_width	: 256
 
       ,lce_sets             : 64
       ,lce_assoc            : 8
@@ -141,9 +133,6 @@ package bp_common_aviary_pkg;
       ,itlb_els             : 8
       ,dtlb_els             : 8
 
-      ,lce_fe_sets      : 128
-      ,lce_fe_assoc     : 4
-      ,cce_fe_block_width : 256
       
       ,lce_sets             : 64
       ,lce_assoc            : 8
@@ -196,9 +185,6 @@ package bp_common_aviary_pkg;
       ,itlb_els             : 8
       ,dtlb_els             : 8
 
-      ,lce_fe_sets      : 128
-      ,lce_fe_assoc     : 4
-      ,cce_fe_block_width : 256
       
       ,lce_sets             : 64
       ,lce_assoc            : 8
@@ -251,9 +237,6 @@ package bp_common_aviary_pkg;
       ,itlb_els             : 8
       ,dtlb_els             : 8
 
-      ,lce_fe_sets			: 128
-      ,lce_fe_assoc			: 4
-      ,cce_fe_block_width	: 256
 
       ,lce_sets             : 64
       ,lce_assoc            : 8
@@ -306,9 +289,6 @@ package bp_common_aviary_pkg;
       ,itlb_els             : 8
       ,dtlb_els             : 8
 
-      ,lce_fe_sets			: 128
-      ,lce_fe_assoc			: 4
-      ,cce_fe_block_width	: 256
 
       ,lce_sets             : 64
       ,lce_assoc            : 8
@@ -361,9 +341,6 @@ package bp_common_aviary_pkg;
       ,itlb_els             : 8
       ,dtlb_els             : 8
 
-      ,lce_fe_sets			: 128
-      ,lce_fe_assoc			: 4
-      ,cce_fe_block_width	: 256
 
       ,lce_sets             : 64
       ,lce_assoc            : 8
@@ -416,9 +393,6 @@ package bp_common_aviary_pkg;
       ,itlb_els             : 8
       ,dtlb_els             : 8
 
-      ,lce_fe_sets			: 128
-      ,lce_fe_assoc			: 4
-      ,cce_fe_block_width	: 256
 
       ,lce_sets             : 64
       ,lce_assoc            : 8
@@ -470,10 +444,7 @@ package bp_common_aviary_pkg;
 
       ,itlb_els             : 8
       ,dtlb_els             : 8
-      
-      ,lce_fe_sets			: 128
-      ,lce_fe_assoc			: 4
-      ,cce_fe_block_width	: 256
+
 
       ,lce_sets             : 64
       ,lce_assoc            : 8

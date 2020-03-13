@@ -113,10 +113,6 @@ typedef struct packed
   integer itlb_els;
   integer dtlb_els;
 
-  integer lce_fe_sets;
-  integer lce_fe_assoc;
-  integer cce_fe_block_width;
-
   integer lce_sets;
   integer lce_assoc;
   integer cce_block_width;
@@ -205,10 +201,6 @@ typedef struct packed
                                                                                                    \
   , localparam itlb_els_p              = proc_param_lp.itlb_els                                    \
   , localparam dtlb_els_p              = proc_param_lp.dtlb_els                                    \
-                                                                                                   \
-  , localparam lce_fe_sets_p                 = proc_param_lp.lce_fe_sets                           \
-  , localparam lce_fe_assoc_p                = proc_param_lp.lce_fe_assoc                          \
-  , localparam cce_fe_block_width_p          = proc_param_lp.cce_fe_block_width                    \
                                                                                                    \
   , localparam lce_sets_p                 = proc_param_lp.lce_sets                                 \
   , localparam lce_assoc_p                = proc_param_lp.lce_assoc                                \
